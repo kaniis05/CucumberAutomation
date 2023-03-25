@@ -1,3 +1,5 @@
+package tests;
+
 import Utilities.Driver;
 
 public class Phone {
